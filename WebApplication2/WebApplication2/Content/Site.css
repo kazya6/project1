@@ -12,7 +12,7 @@
     position: relative;
     z-index: 1;
     height:350px;
-    color: white;
+    color: blue;
 }
 .jumbotron .bg {
     position: absolute;
